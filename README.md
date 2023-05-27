@@ -10,6 +10,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c">  
            <br>    
+    <br>
       <h1 align="center">My favorite technologies 😉</h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" alt="django=icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
