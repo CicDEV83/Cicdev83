@@ -33,5 +33,5 @@
     </a>
    
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
- ![animation matrix](https://github.com/CicDEV83/noircic/blob/main/README.md)
+![Snake animation](https://github.com/CicDEV83/CicDEV831/assets/130338945/487622ba-04dc-4c24-b117-8cd3fc8c8857)
+ ![animation matrix](https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c)
