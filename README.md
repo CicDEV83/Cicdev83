@@ -1,14 +1,14 @@
 ##  Hey guys, Cicero here!
 
 <div>  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>&nbsp&nbsp
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicDEV83&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
 <div  align="center"> 
-  <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <div style="display: inline_block"><br>
+  <img align="left"height="150" alt="codibinare.icon" src="https://bit.ly/3sJJrtG">
     <h1 align="center">My favorite technologies 😉 </h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" alt="django=icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
