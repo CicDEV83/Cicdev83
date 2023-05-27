@@ -1,8 +1,8 @@
 ##  Hey guys, Cicero here!
 
 <div>  
-  <img  height="165em" left="flex"src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicDEV83&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img  height="170em" left="flex"src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicDEV83&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 <div  align="center"> 
