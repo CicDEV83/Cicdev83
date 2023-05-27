@@ -5,13 +5,11 @@
   <img align="right" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicDEV83&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
-<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c">  
-           <br>    
-    <br>
-      <h1 align="center">My favorite technologies 😉</h1> 
+    <img align="left" height="200" alt="coding-time" src="https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c">  
+    <br>    
+       <h1 align="center">My favorite technologies 😉</h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" alt="django=icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
