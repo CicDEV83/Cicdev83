@@ -1,8 +1,7 @@
 ##  Hey guys, Cicero here!
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CicDEV83&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>&nbsp&nbsp
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CicDEV83&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
@@ -22,9 +21,7 @@
         <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="R-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
       <img align="center" height="30" width="40" alt="Oracle-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-       </div>
-     
-    
+       </div>      
   
     
   <h1 align="center">Social networks</h1>
