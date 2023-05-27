@@ -8,8 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250px" alt="code-icon" src="file:///C:/Users/Cicero/Downloads/code.gif">
-    <br>    
+           <br>    
       <h1 align="center">My favorite technologies 😉</h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" alt="django=icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
@@ -33,6 +32,6 @@
       <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
    
-    
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+ ![animation matrix](https://github.com/CicDEV83/noircic/blob/main/README.md)
