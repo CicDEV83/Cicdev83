@@ -8,9 +8,9 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="code" src="">
-    <h1 align="center">The learned man is a discoverer of facts that already exist - but the wise man is a creator of values that do not exist and that he makes exist (Albert Eisnten ). <br> My favorite technologies 😉  </h1> 
+  <div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
+    <h1 align="center">My favorite technologies 😉 </h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" alt="django=icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,20 +22,19 @@
         <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="R-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
       <img align="center" height="30" width="40" alt="Oracle-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-       
-      </div>
+       </div>
+     
     
-  <div>
+  
     
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social networks</h1>
     <a href = "mailto: cicdev83@outlook.com">
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732223.png">
-    </a>
+    </a> &nbsp
     <a href = "https://www.linkedin.com/in/cic-dev-b9ba89259">
       <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
    
     
-</div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
