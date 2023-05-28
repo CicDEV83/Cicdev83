@@ -7,7 +7,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="168" alt="coding-time" src="https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c">  
+    <img align="left" height="167" alt="coding-time" src="https://github.com/CicDEV83/noircic/assets/130338945/76721fa4-1c88-474e-a0fc-6be13ae0fb6c">  
     <br>    
        <h1 align="center">My favorite technologies 😉</h1> 
        <img align="center" height="30" width="40" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
