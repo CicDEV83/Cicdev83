@@ -25,6 +25,7 @@
        </div>      
   
     
+    
   <h1 align="center">Social networks</h1>
     <a href = "mailto: cicdev83@outlook.com">
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732223.png">
@@ -34,4 +35,7 @@
     </a>
    
   
-![Snake animation](https://github.com/CicDEV83/CicDEV831/assets/130338945/487622ba-04dc-4c24-b117-8cd3fc8c8857)
+![Snake animation](https://github.com/CicDEV83/CicDEV831/assets/130338945/487622ba-04dc-4c24-b117-8cd3fc8c8857) <br>
+  [![Spotify](https://novatorem-gamma-six.vercel.app/api/spotify)](https://open.spotify.com/user/Cicero)
+  
+
