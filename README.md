@@ -28,9 +28,9 @@
     
   <h1 align="center">Social networks</h1>
     <a href = "mailto: cicdev83@outlook.com.br">
-      <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" target="_blak">
+      <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732223.png">
     </a> &nbsp
-    <a href = "https://www.linkedin.com/in/cicero-silva-b9ba89259/">
+    <a href = "https://www.linkedin.com/in/cicero-silva-b9ba89259/" target="_blank">
       <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
    
